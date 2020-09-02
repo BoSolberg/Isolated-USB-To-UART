@@ -6,3 +6,4 @@ A Simple 5kV Isolated USB To UART Bridge
 It works with Baudrates from 300 baud to 3 Mbaud.
 
 You can buy a fully tested and assembled version of this on my Tindie.com Store.
+<a href="https://www.tindie.com/stores/solberg/?ref=offsite_badges&utm_source=sellers_Solberg&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
