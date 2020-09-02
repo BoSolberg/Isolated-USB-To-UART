@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name UJ2-BH-1-TH)(type KiCad)(uri "C:/Users/bosol/Documents/KiCAD/Tindie/USB to UART/Components/UJ2-BH-1-TH")(options "")(descr ""))
+  (lib (name FT230XQ-R)(type KiCad)(uri "C:/Users/bosol/Documents/KiCAD/Tindie/USB to UART/Components/FT230XQ-R")(options "")(descr ""))
+  (lib (name ADUM226)(type KiCad)(uri "C:/Users/bosol/Documents/KiCAD/Tindie/USB to UART/Components/ul_ADUM226N0BRIZ/KiCAD/2020-08-31_19-36-21/footprints.pretty")(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri "C:/Users/bosol/Documents/KiCAD/Tindie/USB to UART/Components/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
+)
